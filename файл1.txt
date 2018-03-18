@@ -1,2 +1,3 @@
 print("Привет, мир!")
 print("Привет, все")
+print("hello my dear friend")
